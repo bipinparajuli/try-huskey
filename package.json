@@ -1,0 +1,14 @@
+{
+  "name": "try-huskey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "husky": "^8.0.0"
+  }
+}
